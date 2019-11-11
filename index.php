@@ -4,7 +4,6 @@
 <body>
 
 
-    <!--TA PROCURANDO O QUE VACILÃO?-->
 
     <?php include('header.php'); ?>
 
